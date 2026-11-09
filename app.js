@@ -184,19 +184,19 @@ function openDetailFor(kind, it) { // reuse the same detail templates as the lis
   openSheet(f(it));
 }
 
-/* ---------- More ---------- */
-function renderMore() {
+/* ---------- Donate ---------- */
+function renderDonate() {
   main.innerHTML = `<h2>Donate</h2><p>Free to use. If it helps, please support the campaign.</p>
   <p><a class="btn" href="${STRIPE_LINKS.oneOff5}" target="_blank" rel="noopener">£5 one-off</a> <a class="btn" href="${STRIPE_LINKS.monthly5}" target="_blank" rel="noopener">£5 monthly</a></p>
   <p>Choose your amount (suggested £10, £25, £50, £100):</p><p><a class="btn" href="${STRIPE_LINKS.custom}" target="_blank" rel="noopener">Choose amount</a></p>
-  <h2>About</h2><img src="logo.png" alt="SEEN in Sport logo" width="160"><p>Seen in Sport – Championing Fairness in Women's Sport. This app follows Parliamentary activity, reports and press articles, and helps you find women's-only sessions. Your choices stay on your device. Data may be incomplete: always check the source link before you travel.</p>`;
+  <h3>About</h3><p>Seen in Sport – Championing Fairness in Women's Sport. This app follows Parliamentary activity, reports and press articles, and helps you find women's-only sessions. Your choices stay on your device. Data may be incomplete: always check the source link before you travel.</p>`;
 }
 
 /* ---------- Router ---------- */
 function render() {
   document.querySelectorAll('.tabs button').forEach(b => b.dataset.tab === tab ? b.setAttribute('aria-current', 'page') : b.removeAttribute('aria-current'));
   $('#searchwrap').classList.toggle('hide', !(tab === 'campaign' || tab === 'search'));
-  ({campaign: renderCampaign, clubs: renderClubs, calendar: renderCalendar, search: renderSearch, more: renderMore})[tab]();
+  ({campaign: renderCampaign, clubs: renderClubs, calendar: renderCalendar, search: renderSearch, donate: renderDonate})[tab]();
 }
 document.querySelectorAll('.tabs button').forEach(b => b.onclick = () => { tab = b.dataset.tab; render(); main.focus(); });
 $('#q').addEventListener('input', () => { if (tab !== 'search') { tab = 'search'; document.querySelectorAll('.tabs button').forEach(b => b.dataset.tab === 'search' ? b.setAttribute('aria-current', 'page') : b.removeAttribute('aria-current')); } renderSearch(); });
