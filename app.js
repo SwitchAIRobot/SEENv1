@@ -188,8 +188,7 @@ function openDetailFor(kind, it) { // reuse the same detail templates as the lis
 function renderDonate() {
   main.innerHTML = `<h2>Donate</h2><p>Free to use. If it helps, please support the campaign.</p>
   <p><a class="btn" href="${STRIPE_LINKS.oneOff5}" target="_blank" rel="noopener">£5 one-off</a> <a class="btn" href="${STRIPE_LINKS.monthly5}" target="_blank" rel="noopener">£5 monthly</a></p>
-  <p>Choose your amount (suggested £10, £25, £50, £100):</p><p><a class="btn" href="${STRIPE_LINKS.custom}" target="_blank" rel="noopener">Choose amount</a></p>
-  <h3>About</h3><p>Seen in Sport – Championing Fairness in Women's Sport. This app follows Parliamentary activity, reports and press articles, and helps you find women's-only sessions. Your choices stay on your device. Data may be incomplete: always check the source link before you travel.</p>`;
+  <p>Choose your amount (suggested £10, £25, £50, £100):</p><p><a class="btn" href="${STRIPE_LINKS.custom}" target="_blank" rel="noopener">Choose amount</a></p>;
 }
 
 /* ---------- Router ---------- */
