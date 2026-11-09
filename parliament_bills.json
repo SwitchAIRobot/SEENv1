@@ -1,0 +1,77 @@
+[
+ {
+  "id": "C001",
+  "type": "lords_debate",
+  "title": "For Women Scotland case",
+  "date": "2026-04-27",
+  "status": "previous",
+  "summary": "Peers asked when the Supreme Court judgment would be implemented across government departments. The Deputy Leader said the judgment must be complied with and that the EHRC code was subject to pre-election restrictions.",
+  "matched_keywords": [
+   "trans"
+  ],
+  "source_url": "https://parallelparliament.co.uk/debate/2026-04-27/lords/lords-chamber/for-women-scotland-case",
+  "source_site": "parliament.uk",
+  "original_type": "Lords oral question (Hansard)",
+  "source_note": null
+ },
+ {
+  "id": "C002",
+  "type": "lords_debate",
+  "title": "\"For Women Scotland\" Court Ruling: First Anniversary",
+  "date": "2026-04-14",
+  "status": "previous",
+  "summary": "MPs marked the first anniversary of the Supreme Court ruling and discussed the delay in laying the EHRC code of practice. Only part of the text was seen.",
+  "matched_keywords": [
+   "biological sex"
+  ],
+  "source_url": "https://parallelparliament.co.uk/debate/2026-04-14/commons/westminster-hall/for-women-scotland-court-ruling-first-anniversary",
+  "source_site": "parliament.uk",
+  "original_type": "Westminster Hall debate (Hansard)",
+  "source_note": null
+ },
+ {
+  "id": "C003",
+  "type": "lords_debate",
+  "title": "Sports Competitors: Women (HL11812)",
+  "date": "Not stated",
+  "status": "previous",
+  "summary": "Asks what discussions the Government has had with UK governing bodies about a one-time SRY gene test for athletes in the female category at international level. Answer not seen.",
+  "matched_keywords": [
+   "female category"
+  ],
+  "source_url": "https://westminsterbrief.co.uk/archive/pq/HL11812",
+  "source_site": "parliament.uk",
+  "original_type": "Lords written question",
+  "source_note": null
+ },
+ {
+  "id": "C004",
+  "type": "lords_debate",
+  "title": "Sports Competitors: Women (HL11813)",
+  "date": "Not stated",
+  "status": "previous",
+  "summary": "Asks whether UK Sport plans to fund a one-time genetic test for athletes wishing to compete in a female category and the estimated cost. Answer not seen.",
+  "matched_keywords": [
+   "female category"
+  ],
+  "source_url": "https://westminsterbrief.co.uk/archive/pq/HL11813",
+  "source_site": "parliament.uk",
+  "original_type": "Lords written question",
+  "source_note": null
+ },
+ {
+  "id": "C005",
+  "type": "consultation",
+  "title": "EHRC draft Code of Practice for services, public functions and associations",
+  "date": "2026-05-21",
+  "status": "previous",
+  "summary": "The Minister for Women and Equalities laid the EHRC's updated code before Parliament on 21/05/2026. Secondary sources say it reflects the Supreme Court's reading of sex in the Equality Act 2010 as biological sex.",
+  "matched_keywords": [
+   "biological sex"
+  ],
+  "source_url": "https://www.gov.uk/government/news/organisations-receive-clear-accessible-guidance-on-how-to-implement-equality-law-in-updated-draft-code-of-practice",
+  "source_site": "gov.uk",
+  "original_type": "gov.uk statutory code of practice (negative procedure)",
+  "source_note": null
+ }
+]

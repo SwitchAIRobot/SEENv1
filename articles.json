@@ -1,0 +1,74 @@
+[
+ {
+  "keyword_sport_label": "Governing body policy",
+  "published_title": "Transgender Policy",
+  "publication": "British Orienteering",
+  "date_published": "2026-06-05",
+  "summary": "British Orienteering published a new policy setting eligibility for competition categories at its affiliated events. It says the policy follows the UK Supreme Court judgment on the definition of sex in the Equality Act 2010.",
+  "source_url": "https://www.britishorienteering.org.uk/news/6799/british_orienteering_transgender_policy",
+  "date_checked": "2026-11-09",
+  "confidence": "Medium",
+  "id": "A001",
+  "date_published_sort": "2026-06-05"
+ },
+ {
+  "keyword_sport_label": "Governing body policy",
+  "published_title": "British Rowing Transgender and Non-Binary Competition Eligibility Policy updated according to Supreme Court and IOC Policy",
+  "publication": "British Rowing",
+  "date_published": "06/2026 (day Not stated)",
+  "summary": "British Rowing published an updated eligibility policy for transgender and non-binary competitors. It says the update reflects the 2025 Supreme Court judgment in For Women Scotland and the IOC's April 2026 policy on protecting the female category.",
+  "source_url": "https://www.britishrowing.org/2026/06/british-rowing-transgender-and-non-binary-competition-eligibility-policy-updated-according-to-supreme-court-and-ioc-policy/",
+  "date_checked": "2026-11-09",
+  "confidence": "High",
+  "id": "A002",
+  "date_published_sort": "2026-06-00"
+ },
+ {
+  "keyword_sport_label": "Multi-sport",
+  "published_title": "Sports bodies 'defying Supreme Court ruling' to allow trans athletes to compete",
+  "publication": "GB News",
+  "date_published": "2026-06-05",
+  "summary": "The report covers a publication by the campaign group SEEN in Sport, which claims many sports bodies still allow trans women in women's categories. It also notes British Cycling's female and open categories and UK Athletics' bar on trans women who have been through male puberty.",
+  "source_url": "https://www.gbnews.com/sport/sports-bodies-defying-supreme-court-ruling-to-allow-trans-athletes-to-compete",
+  "date_checked": "2026-11-09",
+  "confidence": "Medium",
+  "id": "A003",
+  "date_published_sort": "2026-06-05"
+ },
+ {
+  "keyword_sport_label": "Darts",
+  "published_title": "Darts bans transgender players in Women's only events in latest victory for female sports",
+  "publication": "GB News",
+  "date_published": "2026-04-09",
+  "summary": "The Darts Regulation Authority said only biological females will be eligible for women's tournaments under its rules. The article presents the change as part of a wider move by sports bodies.",
+  "source_url": "https://www.gbnews.com/sport/darts/darts-bans-transgender-players-van-leuven",
+  "date_checked": "2026-11-09",
+  "confidence": "Medium",
+  "id": "A004",
+  "date_published_sort": "2026-04-09"
+ },
+ {
+  "keyword_sport_label": "Table tennis",
+  "published_title": "Transgender athletes to be banned from Table Tennis as details explained",
+  "publication": "GB News",
+  "date_published": "Not stated",
+  "summary": "Table Tennis England said transgender women will not be able to enter women's competitions it oversees from the 2026/27 season. The rules were reported as still in final consultation and as not covering casual play outside its jurisdiction.",
+  "source_url": "https://www.gbnews.com/sport/other-sport/transgender-athletes-banned-table-tennis",
+  "date_checked": "2026-11-09",
+  "confidence": "Low",
+  "id": "A005",
+  "date_published_sort": "0000"
+ },
+ {
+  "keyword_sport_label": "Multi-sport",
+  "published_title": "IOC female-category policy and legal letters to UK governing bodies",
+  "publication": "Insider Sport",
+  "date_published": "Not stated",
+  "summary": "The article reports that campaign groups wrote to governing bodies citing the 2025 Supreme Court ruling. It also describes an IOC decision approved in March 2026 limiting female events to biological females via a one-time SRY gene screening test.",
+  "source_url": "https://insidersport.com/?p=44333",
+  "date_checked": "2026-11-09",
+  "confidence": "Low",
+  "id": "A006",
+  "date_published_sort": "0000"
+ }
+]

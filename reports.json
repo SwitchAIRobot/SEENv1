@@ -1,0 +1,45 @@
+{
+ "last_updated": "2026-11-09",
+ "items": [
+  {
+   "id": "R1",
+   "title": "SAMPLE report 1 (fake placeholder)",
+   "date": "2026-04-01",
+   "summary": "SAMPLE: fake placeholder row. Replace with a real SEEN in Sport report.",
+   "report_url": "https://example.com/sample-report-1",
+   "sample": true
+  },
+  {
+   "id": "R2",
+   "title": "SAMPLE report 2 (fake placeholder)",
+   "date": "2026-05-01",
+   "summary": "SAMPLE: fake placeholder row. Replace with a real SEEN in Sport report.",
+   "report_url": "https://example.com/sample-report-2",
+   "sample": true
+  },
+  {
+   "id": "R3",
+   "title": "SAMPLE report 3 (fake placeholder)",
+   "date": "2026-06-01",
+   "summary": "SAMPLE: fake placeholder row. Replace with a real SEEN in Sport report.",
+   "report_url": "https://example.com/sample-report-3",
+   "sample": true
+  },
+  {
+   "id": "R4",
+   "title": "SAMPLE report 4 (fake placeholder)",
+   "date": "2026-07-01",
+   "summary": "SAMPLE: fake placeholder row. Replace with a real SEEN in Sport report.",
+   "report_url": "https://example.com/sample-report-4",
+   "sample": true
+  },
+  {
+   "id": "R5",
+   "title": "SAMPLE report 5 (fake placeholder)",
+   "date": "2026-08-01",
+   "summary": "SAMPLE: fake placeholder row. Replace with a real SEEN in Sport report.",
+   "report_url": "https://example.com/sample-report-5",
+   "sample": true
+  }
+ ]
+}
